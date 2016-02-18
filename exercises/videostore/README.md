@@ -10,7 +10,7 @@ The following resources are convenient during the exercise:
 
 In this exercise you'll learn:
 ------------------------------
-* how to apply several Refactoring steps to remove bad smells
+* How to apply several Refactoring steps to remove bad smells.
 
 Introduction
 ------------
